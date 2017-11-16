@@ -1,0 +1,22 @@
+body {
+  background-color: blue;
+}
+
+.mystyle h1{
+	color: pink;
+
+}
+
+.mystyle{
+	padding-top: 1%;
+	background-color:transparent !important;
+}
+
+img {
+margin-top: 5%;
+  width: 15%;
+}
+
+.myFont{
+	color: green;
+}
